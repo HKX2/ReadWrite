@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadWrite", "ReadWrite\ReadWrite.csproj", "{11C026FC-1EEC-4A7D-85B0-C658BDE5E32E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HKX2", "lib\HKX2Library\HKX2\HKX2.csproj", "{B0607E66-6F0C-4520-841E-9B0144C86289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		ReadWrite|Any CPU = ReadWrite|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11C026FC-1EEC-4A7D-85B0-C658BDE5E32E}.ReadWrite|Any CPU.ActiveCfg = ReadWrite|Any CPU
+		{11C026FC-1EEC-4A7D-85B0-C658BDE5E32E}.ReadWrite|Any CPU.Build.0 = ReadWrite|Any CPU
+		{B0607E66-6F0C-4520-841E-9B0144C86289}.ReadWrite|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0607E66-6F0C-4520-841E-9B0144C86289}.ReadWrite|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
