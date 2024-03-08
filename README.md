@@ -1,5 +1,6 @@
-### If you're not on <https://gitlab.com/HKX2/ReadWrite>, then you're on a mirror.
+### If you're not on <https://git.kroner.dev/HKX2/readwrite>, then you're on a mirror.
 
 # ReadWrite
 
-A very basic example script for reading and writing Havok packfiles using HKX2Library.
+A very basic example script for reading and writing Havok packfiles using
+HKX2Library.
